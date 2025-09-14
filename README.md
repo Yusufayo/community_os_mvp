@@ -1,4 +1,4 @@
-Community OS MVP (Firebase) - Ready-to-run package
+##Community OS MVP (Firebase) - Ready-to-run package
 --------------------------------------------------
 
 Contents:
